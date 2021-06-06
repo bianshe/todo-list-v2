@@ -1,0 +1,25 @@
+.card-container {
+    max-width: 700px;
+}
+
+.custom-card {
+    margin: 10px auto;
+    padding: 5px;
+}
+
+.add-task {
+    margin-top: 80px;
+}
+
+.custom-card .card-title {
+    margin-top: 10px;
+}
+
+.custom-card input[type=text] {
+    width: 300px;
+}
+
+.navbar
+{
+    margin-bottom: 70px;
+}
